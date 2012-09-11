@@ -11,3 +11,9 @@ h1 {
 pre {
 	line-height: 1em;
 }
+a, a:visited, a:link {
+	color: #a00;
+}
+a:hover {
+	text-decoration: none;
+}
