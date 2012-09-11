@@ -1,0 +1,10 @@
+EasyCSS
+By Simon David Pratt
+==============================================================================
+
+A collection of CSS files easily imported into a web script to give a
+pleasant appearance without any hassle.
+
+In any script, simply add the following in the <head>:
+
+<link rel="stylesheet" href="http://github.com/spratt/EasyCSS/minimalist.css">
