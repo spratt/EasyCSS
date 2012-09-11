@@ -7,5 +7,5 @@ pleasant appearance without any hassle.
 
 In any script, simply add the following in the <head>:
 
-<link rel="stylesheet" 
-      href="https://github.com/spratt/EasyCSS/blob/master/minimalist.css">
+<link rel="stylesheet" type="text/css"
+      href="https://raw.github.com/spratt/EasyCSS/master/minimalist.css">
