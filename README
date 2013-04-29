@@ -8,4 +8,4 @@ pleasant appearance without any hassle.
 In any script, simply add the following in the <head>:
 
 <link rel="stylesheet" type="text/css" 
-      href="http://spratt.github.com/EasyCSS/minimalist.css">
+      href="http://spratt.github.io/EasyCSS/minimalist.css">
