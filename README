@@ -9,3 +9,8 @@ In any script, simply add the following in the <head>:
 
 <link rel="stylesheet" type="text/css" 
       href="http://spratt.github.io/EasyCSS/minimalist.css">
+
+Or:
+
+<link rel="stylesheet" type="text/css"
+      href="https://spratt.github.io/EasyCSS/readabilitysans.css">
